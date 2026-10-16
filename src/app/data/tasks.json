@@ -1,0 +1,103 @@
+
+[
+  {
+    "id": 1,
+    "title": "Learn JavaScript",
+    "description": "Practice JavaScript basics",
+    "completed": false,
+    "priority": "high",
+    "dueDate": "2026-10-15",
+    "status": "pending",
+    "assignedTo": "Tarikul"
+  },
+  {
+    "id": 2,
+    "title": "Build a Todo App",
+    "description": "Create a todo app using React",
+    "completed": false,
+    "priority": "high",
+    "dueDate": "2026-10-18",
+    "status": "pending",
+    "assignedTo": "Rahim"
+  },
+  {
+    "id": 3,
+    "title": "Read a Book",
+    "description": "Read 10 pages of a book",
+    "completed": true,
+    "priority": "low",
+    "dueDate": "2026-10-12",
+    "status": "completed",
+    "assignedTo": "Karim"
+  },
+  {
+    "id": 4,
+    "title": "Practice CSS",
+    "description": "Practice Flexbox and Grid",
+    "completed": false,
+    "priority": "medium",
+    "dueDate": "2026-10-14",
+    "status": "pending",
+    "assignedTo": "Sakib"
+  },
+  {
+    "id": 5,
+    "title": "Learn Next.js",
+    "description": "Understand server and client components",
+    "completed": false,
+    "priority": "high",
+    "dueDate": "2026-10-20",
+    "status": "pending",
+    "assignedTo": "Tarikul"
+  },
+  {
+    "id": 6,
+    "title": "Fix Website Bugs",
+    "description": "Find and fix existing bugs",
+    "completed": true,
+    "priority": "medium",
+    "dueDate": "2026-10-11",
+    "status": "completed",
+    "assignedTo": "Rahim"
+  },
+  {
+    "id": 7,
+    "title": "Practice English",
+    "description": "Learn five new words",
+    "completed": false,
+    "priority": "low",
+    "dueDate": "2026-10-16",
+    "status": "pending",
+    "assignedTo": "Karim"
+  },
+  {
+    "id": 8,
+    "title": "Create a Portfolio",
+    "description": "Build a personal developer portfolio",
+    "completed": false,
+    "priority": "high",
+    "dueDate": "2026-10-22",
+    "status": "pending",
+    "assignedTo": "Sakib"
+  },
+  {
+    "id": 9,
+    "title": "Review React Hooks",
+    "description": "Practice useState and useEffect",
+    "completed": false,
+    "priority": "medium",
+    "dueDate": "2026-10-17",
+    "status": "pending",
+    "assignedTo": "Tarikul"
+  },
+  {
+    "id": 10,
+    "title": "Deploy a Project",
+    "description": "Deploy a React project to Netlify",
+    "completed": false,
+    "priority": "medium",
+    "dueDate": "2026-10-25",
+    "status": "pending",
+    "assignedTo": "Rahim"
+  }
+]
